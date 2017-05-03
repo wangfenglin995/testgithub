@@ -1,6 +1,5 @@
 test
-<<<<<<< HEAD
-=======
-jjj
->>>>>>> master
 ddd
+dkfjd]df
+sdfsd
+sdfsdf
